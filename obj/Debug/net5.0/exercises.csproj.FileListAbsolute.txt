@@ -1,0 +1,16 @@
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.csproj.AssemblyReference.cache
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.AssemblyInfoInputs.cache
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.AssemblyInfo.cs
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.csproj.CoreCompileInputs.cache
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\exercises.exe
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\exercises.deps.json
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\exercises.runtimeconfig.json
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\exercises.runtimeconfig.dev.json
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\exercises.dll
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\ref\exercises.dll
+C:\Users\jonah\workspace\Back-End-Folder\exercises\bin\Debug\net5.0\exercises.pdb
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.dll
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\ref\exercises.dll
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.pdb
+C:\Users\jonah\workspace\Back-End-Folder\exercises\obj\Debug\net5.0\exercises.genruntimeconfig.cache
